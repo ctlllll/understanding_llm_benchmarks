@@ -1,0 +1,69 @@
+key,Model,MT-bench (score),MMLU,License,Organization,Link
+wizardlm-30b,WizardLM-30B,7.01,0.587,Non-commercial,Microsoft,https://huggingface.co/WizardLM/WizardLM-30B-V1.0
+vicuna-13b-16k,Vicuna-13B-16k,6.92,0.545,Llama 2 Community,LMSYS,https://huggingface.co/lmsys/vicuna-13b-v1.5-16k
+wizardlm-13b-v1.1,WizardLM-13B-v1.1,6.76,0.500,Non-commercial,Microsoft,https://huggingface.co/WizardLM/WizardLM-13B-V1.1
+tulu-30b,Tulu-30B,6.43,0.581,Non-commercial,AllenAI/UW,https://huggingface.co/allenai/tulu-30b
+guanaco-65b,Guanaco-65B,6.41,0.621,Non-commercial,UW,https://huggingface.co/timdettmers/guanaco-65b-merged
+openassistant-llama-30b,OpenAssistant-LLaMA-30B,6.41,0.560,Non-commercial,OpenAssistant,https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
+wizardlm-13b-v1.0,WizardLM-13B-v1.0,6.35,0.523,Non-commercial,Microsoft,https://huggingface.co/WizardLM/WizardLM-13B-V1.0
+vicuna-7b-16k,Vicuna-7B-16k,6.22,0.485,Llama 2 Community,LMSYS,https://huggingface.co/lmsys/vicuna-7b-v1.5-16k
+baize-v2-13b,Baize-v2-13B,5.75,0.489,Non-commercial,UCSD,https://huggingface.co/project-baize/baize-v2-13b
+xgen-7b-8k-inst,XGen-7B-8K-Inst,5.55,0.421,Non-commercial,Salesforce,https://huggingface.co/Salesforce/xgen-7b-8k-inst
+nous-hermes-13b,Nous-Hermes-13B,5.51,0.493,Non-commercial,NousResearch,https://huggingface.co/NousResearch/Nous-Hermes-13b
+mpt-30b-instruct,MPT-30B-Instruct,5.22,0.478,CC-BY-SA 3.0,MosaicML,https://huggingface.co/mosaicml/mpt-30b-instruct
+falcon-40b-instruct,Falcon-40B-Instruct,5.17,0.547,Apache 2.0,TII,https://huggingface.co/tiiuae/falcon-40b-instruct
+h2o-oasst-openllama-13b,H2O-Oasst-OpenLLaMA-13B,4.63,0.428,Apache 2.0,h2oai,https://huggingface.co/h2oai/h2ogpt-gm-oasst1-en-2048-open-llama-13b
+gpt-4-turbo,GPT-4-Turbo,9.32,-,Proprietary,OpenAI,https://openai.com/blog/new-models-and-developer-products-announced-at-devday
+gpt-4-0314,GPT-4-0314,8.96,0.864,Proprietary,OpenAI,https://openai.com/research/gpt-4
+claude-1,Claude-1,7.90,0.770,Proprietary,Anthropic,https://www.anthropic.com/index/introducing-claude
+gpt-4-0613,GPT-4-0613,9.18,-,Proprietary,OpenAI,https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo
+claude-2.0,Claude-2.0,8.06,0.785,Proprietary,Anthropic,https://www.anthropic.com/index/claude-2
+claude-2.1,Claude-2.1,8.18,-,Proprietary,Anthropic,https://www.anthropic.com/index/claude-2-1
+gpt-3.5-turbo-0613,GPT-3.5-Turbo-0613,8.39,-,Proprietary,OpenAI,https://platform.openai.com/docs/models/gpt-3-5
+mixtral-8x7b-instruct-v0.1,Mixtral-8x7b-Instruct-v0.1,8.30,0.706,Apache 2.0,Mistral,https://mistral.ai/news/mixtral-of-experts/
+claude-instant-1,Claude-Instant-1,7.85,0.734,Proprietary,Anthropic,https://www.anthropic.com/index/introducing-claude
+gpt-3.5-turbo-0314,GPT-3.5-Turbo-0314,7.94,0.700,Proprietary,OpenAI,https://platform.openai.com/docs/models/gpt-3-5
+tulu-2-dpo-70b,Tulu-2-DPO-70B,7.89,-,AI2 ImpACT Low-risk,AllenAI/UW,https://huggingface.co/allenai/tulu-2-dpo-70b
+yi-34b-chat,Yi-34B-Chat,-,0.735,Yi License,01 AI,https://huggingface.co/01-ai/Yi-34B-Chat
+gemini-pro,Gemini Pro,-,0.718,Proprietary,Google,https://cloud.google.com/vertex-ai/docs/generative-ai/start/quickstarts/quickstart-multimodal
+gemini-pro-dev-api,Gemini Pro (Dev),-,0.718,Proprietary,Google,https://ai.google.dev/docs/gemini_api_overview
+wizardlm-70b,WizardLM-70B-v1.0,7.71,0.637,Llama 2 Community,Microsoft,https://huggingface.co/WizardLM/WizardLM-70B-V1.0
+vicuna-33b,Vicuna-33B,7.12,0.592,Non-commercial,LMSYS,https://huggingface.co/lmsys/vicuna-33b-v1.3
+starling-lm-7b-alpha,Starling-LM-7B-alpha,8.09,0.639,CC-BY-NC-4.0,UC Berkeley,https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha
+pplx-70b-online,pplx-70b-online,-,-,Proprietary,Perplexity AI,https://blog.perplexity.ai/blog/introducing-pplx-online-llms
+openchat-3.5,OpenChat-3.5,7.81,0.643,Apache-2.0,OpenChat,https://huggingface.co/openchat/openchat_3.5
+openhermes-2.5-mistral-7b,OpenHermes-2.5-Mistral-7b,-,-,Apache-2.0,NousResearch,https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B
+gpt-3.5-turbo-1106,GPT-3.5-Turbo-1106,8.32,-,Proprietary,OpenAI,https://platform.openai.com/docs/models/gpt-3-5
+llama-2-70b-chat,Llama-2-70b-chat,6.86,0.630,Llama 2 Community,Meta,https://huggingface.co/meta-llama/Llama-2-70b-chat-hf
+solar-10.7b-instruct-v1.0,SOLAR-10.7B-Instruct-v1.0,7.58,0.662,CC-BY-NC-4.0,Upstage AI,https://huggingface.co/upstage/SOLAR-10.7B-Instruct-v1.0
+dolphin-2.2.1-mistral-7b,Dolphin-2.2.1-Mistral-7B,-,-,Apache-2.0,Cognitive Computations,https://huggingface.co/ehartford/dolphin-2.2.1-mistral-7b
+wizardlm-13b,WizardLM-13b-v1.2,7.20,0.527,Llama 2 Community,Microsoft,https://huggingface.co/WizardLM/WizardLM-13B-V1.2
+zephyr-7b-beta,Zephyr-7b-beta,7.34,0.614,MIT,HuggingFace,https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+mpt-30b-chat,MPT-30B-chat,6.39,0.504,CC-BY-NC-SA-4.0,MosaicML,https://huggingface.co/mosaicml/mpt-30b-chat
+vicuna-13b,Vicuna-13B,6.57,0.558,Llama 2 Community,LMSYS,https://huggingface.co/lmsys/vicuna-13b-v1.5
+qwen-14b-chat,Qwen-14B-Chat,6.96,0.665,Qianwen LICENSE,Alibaba,https://huggingface.co/Qwen/Qwen-14B-Chat
+zephyr-7b-alpha,Zephyr-7b-alpha,6.88,-,MIT,HuggingFace,https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha
+codellama-34b-instruct,CodeLlama-34B-instruct,-,0.537,Llama 2 Community,Meta,https://huggingface.co/codellama/CodeLlama-34b-Instruct-hf
+falcon-180b-chat,falcon-180b-chat,-,0.680,Falcon-180B TII License,TII,https://huggingface.co/tiiuae/falcon-180B-chat
+guanaco-33b,Guanaco-33B,6.53,0.576,Non-commercial,UW,https://huggingface.co/timdettmers/guanaco-33b-merged
+llama-2-13b-chat,Llama-2-13b-chat,6.65,0.536,Llama 2 Community,Meta,https://huggingface.co/meta-llama/Llama-2-13b-chat-hf
+mistral-7b-instruct,Mistral-7B-Instruct-v0.1,6.84,0.554,Apache 2.0,Mistral,https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
+pplx-7b-online,pplx-7b-online,-,-,Proprietary,Perplexity AI,https://blog.perplexity.ai/blog/introducing-pplx-online-llms
+llama-2-7b-chat,Llama-2-7b-chat,6.27,0.458,Llama 2 Community,Meta,https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+vicuna-7b,Vicuna-7B,6.17,0.498,Llama 2 Community,LMSYS,https://huggingface.co/lmsys/vicuna-7b-v1.5
+palm-2,PaLM-Chat-Bison-001,6.40,-,Proprietary,Google,https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models#foundation_models
+koala-13b,Koala-13B,5.35,0.447,Non-commercial,UC Berkeley,https://bair.berkeley.edu/blog/2023/04/03/koala/
+chatglm3-6b,ChatGLM3-6B,-,-,Apache-2.0,Tsinghua,https://huggingface.co/THUDM/chatglm3-6b
+gpt4all-13b-snoozy,GPT4All-13B-Snoozy,5.41,0.430,Non-commercial,Nomic AI,https://huggingface.co/nomic-ai/gpt4all-13b-snoozy
+mpt-7b-chat,MPT-7B-Chat,5.42,0.320,CC-BY-NC-SA-4.0,MosaicML,https://huggingface.co/mosaicml/mpt-7b-chat
+chatglm2-6b,ChatGLM2-6B,4.96,0.455,Apache-2.0,Tsinghua,https://huggingface.co/THUDM/chatglm2-6b
+RWKV-4-Raven-14B,RWKV-4-Raven-14B,3.98,0.256,Apache 2.0,RWKV,https://huggingface.co/BlinkDL/rwkv-4-raven
+alpaca-13b,Alpaca-13B,4.53,0.481,Non-commercial,Stanford,https://crfm.stanford.edu/2023/03/13/alpaca.html
+oasst-pythia-12b,OpenAssistant-Pythia-12B,4.32,0.270,Apache 2.0,OpenAssistant,https://huggingface.co/OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5
+chatglm-6b,ChatGLM-6B,4.50,0.361,Non-commercial,Tsinghua,https://huggingface.co/THUDM/chatglm-6b
+fastchat-t5-3b,FastChat-T5-3B,3.04,0.477,Apache 2.0,LMSYS,https://huggingface.co/lmsys/fastchat-t5-3b-v1.0
+stablelm-tuned-alpha-7b,StableLM-Tuned-Alpha-7B,2.75,0.244,CC-BY-NC-SA-4.0,Stability AI,https://huggingface.co/stabilityai/stablelm-tuned-alpha-7b
+dolly-v2-12b,Dolly-V2-12B,3.28,0.257,MIT,Databricks,https://huggingface.co/databricks/dolly-v2-12b
+llama-13b,LLaMA-13B,2.61,0.470,Non-commercial,Meta,https://arxiv.org/abs/2302.13971
+mistral-medium,Mistral Medium,8.61,0.753,Proprietary,Mistral,https://mistral.ai/news/la-plateforme/
+llama2-70b-steerlm-chat,Llama2-70B-SteerLM-Chat,7.54,-,Llama 2 Community,Nvidia,https://huggingface.co/nvidia/Llama2-70B-SteerLM-Chat

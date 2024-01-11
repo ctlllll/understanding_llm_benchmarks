@@ -1,0 +1,107 @@
+{
+  "config_general": {
+    "model_name": "Quake24/easyTermsSummerizer",
+    "model_sha": "8df9f96cc14be8f681c40bd1672b3f3540b70e31",
+    "model_size": "292.4 MB",
+    "model_dtype": "torch.float16",
+    "lighteval_sha": "0f318ecf002208468154899217b3ba7c6ae09374",
+    "num_few_shot_default": 0,
+    "num_fewshot_seeds": 1,
+    "override_batch_size": 1,
+    "max_samples": null,
+    "job_id": ""
+  },
+  "results": {
+    "harness|drop|3": {
+      "em": 0.0,
+      "em_stderr": 0.0,
+      "f1": 5.6627516778523496e-05,
+      "f1_stderr": 1.5040683244337208e-05
+    },
+    "harness|gsm8k|5": {
+      "acc": 0.0,
+      "acc_stderr": 0.0
+    },
+    "harness|winogrande|5": {
+      "acc": 0.5074980268350434,
+      "acc_stderr": 0.014050905521228573
+    },
+    "all": {
+      "em": 0.0,
+      "em_stderr": 0.0,
+      "f1": 5.6627516778523496e-05,
+      "f1_stderr": 1.5040683244337208e-05,
+      "acc": 0.2537490134175217,
+      "acc_stderr": 0.007025452760614287
+    }
+  },
+  "versions": {
+    "harness|drop|3": 1,
+    "harness|gsm8k|5": 0,
+    "harness|winogrande|5": 0,
+    "all": 0
+  },
+  "config_tasks": {
+    "harness|drop": "LM Harness task",
+    "harness|gsm8k": "LM Harness task",
+    "harness|winogrande": "LM Harness task"
+  },
+  "summary_tasks": {
+    "harness|drop|3": {
+      "hashes": {
+        "hash_examples": "1d27416e8324e9a3",
+        "hash_full_prompts": "a5513ff9a741b385",
+        "hash_input_tokens": "8b79837bb3a3e8d7",
+        "hash_cont_tokens": "ac28efa4f309a376"
+      },
+      "truncated": 9294,
+      "non-truncated": 242,
+      "padded": 0,
+      "non-padded": 9536,
+      "effective_few_shots": 3.0,
+      "num_truncated_few_shots": 0
+    },
+    "harness|gsm8k|5": {
+      "hashes": {
+        "hash_examples": "4c0843a5d99bcfdc",
+        "hash_full_prompts": "41d55e83abc0e02d",
+        "hash_input_tokens": "e3aa62a92d2fcd8d",
+        "hash_cont_tokens": "541dff074e3976e1"
+      },
+      "truncated": 928,
+      "non-truncated": 391,
+      "padded": 0,
+      "non-padded": 1319,
+      "effective_few_shots": 5.0,
+      "num_truncated_few_shots": 0
+    },
+    "harness|winogrande|5": {
+      "hashes": {
+        "hash_examples": "aada0a176fd81218",
+        "hash_full_prompts": "c8655cbd12de8409",
+        "hash_input_tokens": "168aeb2790d4934d",
+        "hash_cont_tokens": "ddbbb8d9ee63c294"
+      },
+      "truncated": 0,
+      "non-truncated": 2534,
+      "padded": 2426,
+      "non-padded": 108,
+      "effective_few_shots": 5.0,
+      "num_truncated_few_shots": 0
+    }
+  },
+  "summary_general": {
+    "hashes": {
+      "hash_examples": "9b4d8993161e637d",
+      "hash_full_prompts": "08215e527b7e60a5",
+      "hash_input_tokens": "5d7a3140a6120f73",
+      "hash_cont_tokens": "a6258214db9de198"
+    },
+    "total_evaluation_time_secondes": "5797.049927711487",
+    "truncated": 10222,
+    "non-truncated": 3167,
+    "padded": 2426,
+    "non-padded": 10963,
+    "num_truncated_few_shots": 0
+  }
+}

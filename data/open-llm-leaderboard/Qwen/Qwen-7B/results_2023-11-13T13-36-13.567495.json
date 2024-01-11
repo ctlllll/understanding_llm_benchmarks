@@ -1,0 +1,65 @@
+{
+  "config_general": {
+    "lighteval_sha": "167773f1d5d1647c60dadc31c9e731ab7dbcbbad",
+    "num_few_shot_default": 0,
+    "num_fewshot_seeds": 1,
+    "override_batch_size": 1,
+    "max_samples": null,
+    "job_id": "",
+    "model_name": "Qwen/Qwen-7B",
+    "model_sha": "7b08ae1ac6adfb588c4a212bf75c25c92365e275",
+    "model_dtype": "torch.float16",
+    "model_size": "14.39 GB"
+  },
+  "results": {
+    "harness|drop|3": {
+      "em": 0.04079278523489933,
+      "em_stderr": 0.0020257579367794535,
+      "f1": 0.09169882550335588,
+      "f1_stderr": 0.002214247247988323
+    },
+    "all": {
+      "em": 0.04079278523489933,
+      "em_stderr": 0.0020257579367794535,
+      "f1": 0.09169882550335588,
+      "f1_stderr": 0.002214247247988323
+    }
+  },
+  "versions": {
+    "all": 0,
+    "harness|drop|3": 1
+  },
+  "config_tasks": {
+    "harness|drop": "LM Harness task"
+  },
+  "summary_tasks": {
+    "harness|drop|3": {
+      "hashes": {
+        "hash_examples": "1d27416e8324e9a3",
+        "hash_full_prompts": "a5513ff9a741b385",
+        "hash_input_tokens": "eb3af95bfaf6322d",
+        "hash_cont_tokens": "33c6df789594228e"
+      },
+      "truncated": 0,
+      "non_truncated": 9536,
+      "padded": 0,
+      "non_padded": 9536,
+      "effective_few_shots": 3.0,
+      "num_truncated_few_shots": 0
+    }
+  },
+  "summary_general": {
+    "hashes": {
+      "hash_examples": "c4991e461b074c2d",
+      "hash_full_prompts": "0f06dceae26b0134",
+      "hash_input_tokens": "ed9839dcc7e639aa",
+      "hash_cont_tokens": "940f66e4856e526e"
+    },
+    "truncated": 0,
+    "non_truncated": 9536,
+    "padded": 0,
+    "non_padded": 9536,
+    "num_truncated_few_shots": 0,
+    "total_evaluation_time_secondes": 0
+  }
+}

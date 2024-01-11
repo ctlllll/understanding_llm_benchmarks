@@ -1,0 +1,33 @@
+{
+  "results": {
+    "harness|arc:challenge|25": {
+      "acc": 0.20392491467576793,
+      "acc_stderr": 0.011774262478702254,
+      "acc_norm": 0.2175767918088737,
+      "acc_norm_stderr": 0.012057262020972497
+    },
+    "all": {
+      "acc": 0.20392491467576793,
+      "acc_stderr": 0.011774262478702254,
+      "acc_norm": 0.2175767918088737,
+      "acc_norm_stderr": 0.012057262020972497
+    }
+  },
+  "versions": {
+    "harness|arc:challenge|25": 0,
+    "all": 0
+  },
+  "config_general": {
+    "model_name": "gpt2",
+    "model_sha": "11c5a3d5811f50298f278a704980280950aedb10",
+    "model_dtype": "torch.float16",
+    "lighteval_sha": "3451c4ea8c79bd755aa9065ca6507d86636b5ab8",
+    "num_few_shot_default": 0,
+    "num_fewshot_seeds": 1,
+    "override_batch_size": 1,
+    "max_samples": null
+  },
+  "config_tasks": {
+    "harness|arc:challenge": "LM Harness task"
+  }
+}

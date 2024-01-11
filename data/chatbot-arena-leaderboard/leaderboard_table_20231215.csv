@@ -1,0 +1,65 @@
+Model,MT-bench (score),Arena Elo rating,MMLU,License,Link
+WizardLM-30B,7.01,-,0.587,Non-commercial,https://huggingface.co/WizardLM/WizardLM-30B-V1.0
+Vicuna-13B-16k,6.92,-,0.545,Llama 2 Community,https://huggingface.co/lmsys/vicuna-13b-v1.5-16k
+WizardLM-13B-v1.1,6.76,-,0.500,Non-commercial,https://huggingface.co/WizardLM/WizardLM-13B-V1.1
+Tulu-30B,6.43,-,0.581,Non-commercial,https://huggingface.co/allenai/tulu-30b
+Guanaco-65B,6.41,-,0.621,Non-commercial,https://huggingface.co/timdettmers/guanaco-65b-merged
+OpenAssistant-LLaMA-30B,6.41,-,0.560,Non-commercial,https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
+WizardLM-13B-v1.0,6.35,-,0.523,Non-commercial,https://huggingface.co/WizardLM/WizardLM-13B-V1.0
+Vicuna-7B-16k,6.22,-,0.485,Llama 2 Community,https://huggingface.co/lmsys/vicuna-7b-v1.5-16k
+Baize-v2-13B,5.75,-,0.489,Non-commercial,https://huggingface.co/project-baize/baize-v2-13b
+XGen-7B-8K-Inst,5.55,-,0.421,Non-commercial,https://huggingface.co/Salesforce/xgen-7b-8k-inst
+Nous-Hermes-13B,5.51,-,0.493,Non-commercial,https://huggingface.co/NousResearch/Nous-Hermes-13b
+MPT-30B-Instruct,5.22,-,0.478,CC-BY-SA 3.0,https://huggingface.co/mosaicml/mpt-30b-instruct
+Falcon-40B-Instruct,5.17,-,0.547,Apache 2.0,https://huggingface.co/tiiuae/falcon-40b-instruct
+H2O-Oasst-OpenLLaMA-13B,4.63,-,0.428,Apache 2.0,https://huggingface.co/h2oai/h2ogpt-gm-oasst1-en-2048-open-llama-13b
+GPT-4-Turbo,9.32,1233,-,Proprietary,https://openai.com/blog/new-models-and-developer-products-announced-at-devday
+GPT-4-0314,8.96,1191,0.864,Proprietary,https://openai.com/research/gpt-4
+Claude-1,7.90,1151,0.770,Proprietary,https://www.anthropic.com/index/introducing-claude
+GPT-4-0613,9.18,1157,-,Proprietary,https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo
+Claude-2.0,8.06,1130,0.785,Proprietary,https://www.anthropic.com/index/claude-2
+Claude-2.1,8.18,1120,-,Proprietary,https://www.anthropic.com/index/claude-2-1
+GPT-3.5-Turbo-0613,8.39,1116,-,Proprietary,https://platform.openai.com/docs/models/gpt-3-5
+Mixtral-8x7b-Instruct-v0.1,8.30,1116,0.706,Apache 2.0,https://mistral.ai/news/mixtral-of-experts/
+Claude-Instant-1,7.85,1110,0.734,Proprietary,https://www.anthropic.com/index/introducing-claude
+GPT-3.5-Turbo-0314,7.94,1105,0.700,Proprietary,https://platform.openai.com/docs/models/gpt-3-5
+Tulu-2-DPO-70B,7.89,1110,-,AI2 ImpACT Low-risk,https://huggingface.co/allenai/tulu-2-dpo-70b
+Yi-34B-Chat,-,1109,0.735,Yi License,https://huggingface.co/01-ai/Yi-34B-Chat
+Gemini Pro,-,1106,0.718,Proprietary,https://blog.google/technology/ai/gemini-api-developers-cloud/
+WizardLM-70B-v1.0,7.71,1102,0.637,Llama 2 Community,https://huggingface.co/WizardLM/WizardLM-70B-V1.0
+Vicuna-33B,7.12,1096,0.592,Non-commercial,https://huggingface.co/lmsys/vicuna-33b-v1.3
+Starling-LM-7B-alpha,8.09,1088,0.639,CC-BY-NC-4.0,https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha
+pplx-70b-online,-,1075,-,Proprietary,https://blog.perplexity.ai/blog/introducing-pplx-online-llms
+OpenChat-3.5,7.81,1077,0.643,Apache-2.0,https://huggingface.co/openchat/openchat_3.5
+OpenHermes-2.5-Mistral-7b,-,1072,-,Apache-2.0,https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B
+GPT-3.5-Turbo-1106,8.32,1077,-,Proprietary,https://platform.openai.com/docs/models/gpt-3-5
+Llama-2-70b-chat,6.86,1074,0.630,Llama 2 Community,https://huggingface.co/meta-llama/Llama-2-70b-chat-hf
+Dolphin-2.2.1-Mistral-7B,-,1072,-,Apache-2.0,https://huggingface.co/ehartford/dolphin-2.2.1-mistral-7b
+WizardLM-13b-v1.2,7.20,1056,0.527,Llama 2 Community,https://huggingface.co/WizardLM/WizardLM-13B-V1.2
+Zephyr-7b-beta,7.34,1049,0.614,MIT,https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+MPT-30B-chat,6.39,1041,0.504,CC-BY-NC-SA-4.0,https://huggingface.co/mosaicml/mpt-30b-chat
+Vicuna-13B,6.57,1041,0.558,Llama 2 Community,https://huggingface.co/lmsys/vicuna-13b-v1.5
+QWen-Chat-14B,6.96,1042,0.665,Qianwen LICENSE,https://huggingface.co/Qwen/Qwen-14B-Chat
+Zephyr-7b-alpha,6.88,1038,-,MIT,https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha
+CodeLlama-34B-instruct,-,1038,0.537,Llama 2 Community,https://huggingface.co/codellama/CodeLlama-34b-Instruct-hf
+falcon-180b-chat,-,1035,0.680,Falcon-180B TII License,https://huggingface.co/tiiuae/falcon-180B-chat
+Guanaco-33B,6.53,1031,0.576,Non-commercial,https://huggingface.co/timdettmers/guanaco-33b-merged
+Llama-2-13b-chat,6.65,1032,0.536,Llama 2 Community,https://huggingface.co/meta-llama/Llama-2-13b-chat-hf
+Mistral-7B-Instruct-v0.1,6.84,1023,0.554,Apache 2.0,https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
+pplx-7b-online,-,1027,-,Proprietary,https://blog.perplexity.ai/blog/introducing-pplx-online-llms
+Llama-2-7b-chat,6.27,1015,0.458,Llama 2 Community,https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+Vicuna-7B,6.17,1004,0.498,Llama 2 Community,https://huggingface.co/lmsys/vicuna-7b-v1.5
+PaLM-Chat-Bison-001,6.40,1004,-,Proprietary,https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models#foundation_models
+Koala-13B,5.35,966,0.447,Non-commercial,https://bair.berkeley.edu/blog/2023/04/03/koala/
+ChatGLM3-6B,-,960,-,Apache-2.0,https://huggingface.co/THUDM/chatglm3-6b
+GPT4All-13B-Snoozy,5.41,937,0.430,Non-commercial,https://huggingface.co/nomic-ai/gpt4all-13b-snoozy
+MPT-7B-Chat,5.42,930,0.320,CC-BY-NC-SA-4.0,https://huggingface.co/mosaicml/mpt-7b-chat
+ChatGLM2-6B,4.96,928,0.455,Apache-2.0,https://huggingface.co/THUDM/chatglm2-6b
+RWKV-4-Raven-14B,3.98,924,0.256,Apache 2.0,https://huggingface.co/BlinkDL/rwkv-4-raven
+Alpaca-13B,4.53,904,0.481,Non-commercial,https://crfm.stanford.edu/2023/03/13/alpaca.html
+OpenAssistant-Pythia-12B,4.32,896,0.270,Apache 2.0,https://huggingface.co/OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5
+ChatGLM-6B,4.50,882,0.361,Non-commercial,https://huggingface.co/THUDM/chatglm-6b
+FastChat-T5-3B,3.04,873,0.477,Apache 2.0,https://huggingface.co/lmsys/fastchat-t5-3b-v1.0
+StableLM-Tuned-Alpha-7B,2.75,844,0.244,CC-BY-NC-SA-4.0,https://huggingface.co/stabilityai/stablelm-tuned-alpha-7b
+Dolly-V2-12B,3.28,822,0.257,MIT,https://huggingface.co/databricks/dolly-v2-12b
+LLaMA-13B,2.61,800,0.470,Non-commercial,https://arxiv.org/abs/2302.13971

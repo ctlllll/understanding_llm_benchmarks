@@ -1,0 +1,63 @@
+{
+  "config_general": {
+    "lighteval_sha": "b35d4d84573be82d91c07ea46260f262f72cf69d",
+    "num_few_shot_default": 0,
+    "num_fewshot_seeds": 1,
+    "override_batch_size": 1,
+    "max_samples": null,
+    "job_id": "",
+    "start_time": 1387720.655582523,
+    "end_time": 1396890.529815965,
+    "total_evaluation_time_secondes": "9169.874233442126",
+    "model_name": "adonlee/LLaMA_2_13B_SFT_v1",
+    "model_sha": "31421b19a3f5fe2eff4871c86d3a94d5723b6fd2",
+    "model_dtype": "torch.bfloat16",
+    "model_size": "24.28 GB"
+  },
+  "results": {
+    "harness|gsm8k|5": {
+      "acc": 0.39272175890826383,
+      "acc_stderr": 0.013451745349586569
+    },
+    "all": {
+      "acc": 0.39272175890826383,
+      "acc_stderr": 0.013451745349586569
+    }
+  },
+  "versions": {
+    "all": 0,
+    "harness|gsm8k|5": 0
+  },
+  "config_tasks": {
+    "harness|gsm8k": "LM Harness task"
+  },
+  "summary_tasks": {
+    "harness|gsm8k|5": {
+      "hashes": {
+        "hash_examples": "4c0843a5d99bcfdc",
+        "hash_full_prompts": "41d55e83abc0e02d",
+        "hash_input_tokens": "bda342e47b5099b2",
+        "hash_cont_tokens": "dee779b385a9da63"
+      },
+      "truncated": 0,
+      "non_truncated": 1319,
+      "padded": 0,
+      "non_padded": 1319,
+      "effective_few_shots": 5.0,
+      "num_truncated_few_shots": 0
+    }
+  },
+  "summary_general": {
+    "hashes": {
+      "hash_examples": "18b756b7813d1bdf",
+      "hash_full_prompts": "deb3b1dff10b95aa",
+      "hash_input_tokens": "42036645de5ac59d",
+      "hash_cont_tokens": "44062eaac62ff08c"
+    },
+    "truncated": 0,
+    "non_truncated": 1319,
+    "padded": 0,
+    "non_padded": 1319,
+    "num_truncated_few_shots": 0
+  }
+}

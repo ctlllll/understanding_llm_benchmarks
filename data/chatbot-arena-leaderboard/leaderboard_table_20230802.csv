@@ -1,0 +1,41 @@
+Model,MT-bench (score),Arena Elo rating,MMLU,License,Link
+GPT-4,8.99,1206,0.864,Proprietary,https://openai.com/research/gpt-4
+Claude-2,8.06,1135,0.785,Proprietary,https://www.anthropic.com/index/claude-2
+GPT-3.5-turbo,7.94,1122,0.700,Proprietary,https://openai.com/blog/chatgpt
+Claude-1,7.90,1166,0.770,Proprietary,https://www.anthropic.com/index/introducing-claude
+Claude-instant-1,7.85,1138,0.734,Proprietary,https://www.anthropic.com/index/introducing-claude
+Vicuna-33B,7.12,1096,0.592,Non-commercial,https://huggingface.co/lmsys/vicuna-33b-v1.3
+WizardLM-30B,7.01,-,0.587,Non-commercial,https://huggingface.co/WizardLM/WizardLM-30B-V1.0
+Vicuna-13B-16k,6.92,-,0.545,Llama 2 Community,https://huggingface.co/lmsys/vicuna-13b-v1.5-16k
+Llama-2-70b-chat,6.86,-,0.630,Llama 2 Community,https://huggingface.co/meta-llama/Llama-2-70b-chat-hf
+WizardLM-13B-v1.1,6.76,1040,0.500,Non-commercial,https://huggingface.co/WizardLM/WizardLM-13B-V1.1
+Llama-2-13b-chat,6.65,987,0.536,Llama 2 Community,https://huggingface.co/meta-llama/Llama-2-13b-chat-hf
+Vicuna-13B,6.57,1051,0.558,Llama 2 Community,https://huggingface.co/lmsys/vicuna-13b-v1.5
+Guanaco-33B,6.53,1038,0.576,Non-commercial,https://huggingface.co/timdettmers/guanaco-33b-merged
+Tulu-30B,6.43,-,0.581,Non-commercial,https://huggingface.co/allenai/tulu-30b
+Guanaco-65B,6.41,-,0.621,Non-commercial,https://huggingface.co/timdettmers/guanaco-65b-merged
+OpenAssistant-LLaMA-30B,6.41,-,0.560,Non-commercial,https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor
+PaLM-Chat-Bison-001,6.40,1015,-,Proprietary,https://cloud.google.com/vertex-ai/docs/generative-ai/learn/models#foundation_models
+MPT-30B-chat,6.39,1046,0.504,CC-BY-NC-SA-4.0,https://huggingface.co/mosaicml/mpt-30b-chat
+WizardLM-13B,6.35,-,0.523,Non-commercial,https://huggingface.co/WizardLM/WizardLM-13B-V1.0
+Llama-2-7b-chat,6.27,961,0.458,Llama 2 Community,https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+Vicuna-7B-16k,6.22,-,0.485,Llama 2 Community,https://huggingface.co/lmsys/vicuna-7b-v1.5-16k
+Vicuna-7B,6.17,1006,0.498,Llama 2 Community,https://huggingface.co/lmsys/vicuna-7b-v1.5
+Baize-v2-13B,5.75,-,0.489,Non-commercial,https://huggingface.co/project-baize/baize-v2-13b
+XGen-7B-8K-Inst,5.55,-,0.421,Non-commercial,https://huggingface.co/Salesforce/xgen-7b-8k-inst
+Nous-Hermes-13B,5.51,-,0.493,Non-commercial,https://huggingface.co/NousResearch/Nous-Hermes-13b
+MPT-7B-Chat,5.42,947,0.320,CC-BY-NC-SA-4.0,https://huggingface.co/mosaicml/mpt-7b-chat
+GPT4All-13B-Snoozy,5.41,967,0.430,Non-commercial,https://huggingface.co/nomic-ai/gpt4all-13b-snoozy
+Koala-13B,5.35,983,0.447,Non-commercial,https://bair.berkeley.edu/blog/2023/04/03/koala/
+MPT-30B-Instruct,5.22,-,0.478,CC-BY-SA 3.0,https://huggingface.co/mosaicml/mpt-30b-instruct
+Falcon-40B-Instruct,5.17,-,0.547,Apache 2.0,https://huggingface.co/tiiuae/falcon-40b-instruct
+ChatGLM2-6B,4.96,-,0.455,Apache-2.0,https://huggingface.co/THUDM/chatglm2-6b
+H2O-Oasst-OpenLLaMA-13B,4.63,-,0.428,Apache 2.0,https://huggingface.co/h2oai/h2ogpt-gm-oasst1-en-2048-open-llama-13b
+Alpaca-13B,4.53,923,0.481,Non-commercial,https://crfm.stanford.edu/2023/03/13/alpaca.html
+ChatGLM-6B,4.50,900,0.361,Non-commercial,https://huggingface.co/THUDM/chatglm-6b
+OpenAssistant-Pythia-12B,4.32,915,0.270,Apache 2.0,https://huggingface.co/OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5
+RWKV-4-Raven-14B,3.98,943,0.256,Apache 2.0,https://huggingface.co/BlinkDL/rwkv-4-raven
+Dolly-V2-12B,3.28,842,0.257,MIT,https://huggingface.co/databricks/dolly-v2-12b
+FastChat-T5-3B,3.04,892,0.477,Apache 2.0,https://huggingface.co/lmsys/fastchat-t5-3b-v1.0
+StableLM-Tuned-Alpha-7B,2.75,863,0.244,CC-BY-NC-SA-4.0,https://huggingface.co/stabilityai/stablelm-tuned-alpha-7b
+LLaMA-13B,2.61,817,0.470,Non-commercial,https://arxiv.org/abs/2302.13971
